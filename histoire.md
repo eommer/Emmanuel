@@ -11,7 +11,7 @@ La famille Macron est originaire du village d'Authie, dans la Somme, et ses gran
 Alors qu'il n'a pas été baptisé tout-petit, Emmanuel Macron demande le baptême à l'âge de douze ans, un « choix personnel », au moment de son entrée à l'école de la Providence, école des Jésuites d’Amiens. Pour Emmanuel Macron, le catholicisme lui apporte une « discipline de l’esprit » et une « volonté d’ouverture au monde », en développant chez lui une pensée nourrie de spiritualité. 
 
 
- ### Des débuts difficiles
+### Des débuts difficiles
 
 
 De la sixième à la première, il effectue sa scolarité au lycée La Providence, un établissement privé catholique d'Amiens fondé par la congrégation des jésuites. Il est lauréat du concours général de français en 199429. Il termine ses études secondaires à Paris au lycée Henri-IV, où il obtient le bac S avec la mention très bien.
