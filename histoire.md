@@ -1,6 +1,6 @@
 [Histoire](histoire.md) | [Carrière](carriere.md) | [Controverses](contro.md) | [Publications](publis.md)
 
-### Une enfance singulière
+###Une enfance singulière
 
 Emmanuel Jean-Michel Frédéric Macron est le fils de Jean-Michel Macron (en), né en 1950, médecin et professeur de neurologie au CHU d'Amiens et responsable d'enseignement à la faculté de médecine de cette même ville, et de Françoise Noguès, médecin et conseillère de la sécurité sociale, fille de Jean Noguès et de Germaine Noguès (née Arribet, morte en 2013). Ils ont perdu leur premier enfant, qui est mort en bas âge. Ils ont ensuite eu trois enfants : Emmanuel, Laurent (né en 1979, radiologue, marié à Sabine) et Estelle (née en 1982, néphrologue, mariée à Carl Franjou). Ils divorcent, et Jean-Michel Macron épouse le Dr Hélène Joly, psychiatre au CHS-Pinel Dury.
 
@@ -8,7 +8,7 @@ La famille Macron est originaire du village d'Authie, dans la Somme, et ses gran
 
 Alors qu'il n'a pas été baptisé tout-petit, Emmanuel Macron demande le baptême à l'âge de douze ans, un « choix personnel », au moment de son entrée à l'école de la Providence, école des Jésuites d’Amiens. Pour Emmanuel Macron, le catholicisme lui apporte une « discipline de l’esprit » et une « volonté d’ouverture au monde », en développant chez lui une pensée nourrie de spiritualité.
 
- ### Des débuts difficiles
+ ###Des débuts difficiles
 
 De la sixième à la première, il effectue sa scolarité au lycée La Providence, un établissement privé catholique d'Amiens fondé par la congrégation des jésuites. Il est lauréat du concours général de français en 199429. Il termine ses études secondaires à Paris au lycée Henri-IV, où il obtient le bac S avec la mention très bien.
 
@@ -16,7 +16,7 @@ Admis en hypokhâgne et khâgne au lycée Henri-IV (classes préparatoires de le
 
 Des éléments de sa biographie publiés dans les médias ont fait l'objet d'incertitudes et de contradictions. Ainsi, Emmanuel Macron semble avoir entretenu pendant un certain temps l'ambiguïté sur son prétendu passage par l'École normale supérieure32. Par ailleurs, il indique avoir réalisé un mémoire sur l'intérêt général, en rapport avec la philosophie du droit de Hegel, sous la direction d'Étienne Balibar, mais ce dernier déclare ne pas avoir de souvenir ni de trace de cet épisode41, précisant : « Peut-être s'agit-il d'une censure inconsciente, je ne sais pas. »
 
-### Une ascension fulgurante
+###Une ascension fulgurante
 
 **Banquier d'affaire**
 
@@ -44,6 +44,6 @@ Le 26 août 2014, il est nommé ministre de l'Économie, de l'Industrie et du Nu
 
 Prenant la suite du projet de « loi sur la croissance et le pouvoir d'achat » porté par Arnaud Montebourg, qui se donnait pour objectif de « restituer 6 milliards d'euros de pouvoir d'achat » aux Français105, il présente au mois de décembre 2014 au Conseil des ministres, le projet de loi pour la croissance, l'activité et l'égalité des chances économiques, aussi appelé « loi Macron », qui a pour objectif de « déverrouiller l'économie française » en modifiant notamment la réglementation concernant le travail le dimanche, les professions réglementées, les transports et le permis de conduire, l'ouverture du marché autocar et la vie des entreprises et des salariés. Par peur de ne pas trouver de majorité sur ce texte, le gouvernement Valls II décide de ne pas faire voter cette réforme auprès des parlementaires et d'utiliser l'article 49 alinéa 3 de la Constitution, pour la faire adopter107. Après son adoption le 10 juillet et une saisine du Conseil constitutionnel par l'opposition, la loi est promulguée le 6 août 2015109.|
 
-### L'auriflame de son apogée
+###L'auriflame de son apogée
 
 Le 7 mai 2017, il est élu président de la République au second tour de scrutin avec 66,10 % des voix contre 33,90 % pour Marine Le Pen, lors d'un second tour qui marque des taux record de 25,44% d'abstention, 6,35 % de votes blancs et 2,21 % de votes nuls, soit des suffrages exprimés de 66,01 % du nombre des inscrits. Le lendemain, il démissionne de la présidence de son parti En marche !, dont Catherine Barbaroux assure l'intérim.
