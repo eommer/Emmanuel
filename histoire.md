@@ -20,7 +20,7 @@ Des éléments de sa biographie publiés dans les médias ont fait l'objet d'inc
 
 **Banquier d'affaire**
 
-|En septembre 2008, il se met en disponibilité de la fonction publique et devient banquier d'affaires chez Rothschild & Cie54,55. Recruté par François Henrot sur recommandation de Jacques Attali et de Serge Weinberg, il indique que l'échec de son militantisme local et l'élection de Nicolas Sarkozy à la présidence de la République l'ont poussé vers cette activité10.
+En septembre 2008, il se met en disponibilité de la fonction publique et devient banquier d'affaires chez Rothschild & Cie54,55. Recruté par François Henrot sur recommandation de Jacques Attali et de Serge Weinberg, il indique que l'échec de son militantisme local et l'élection de Nicolas Sarkozy à la présidence de la République l'ont poussé vers cette activité10.
 
 En 2010, Emmanuel Macron offre son aide bénévole à la Société des rédacteurs du Monde (SRM56), dans le contexte de la revente du journal Le Monde. Mais il est aussi en relation secrète avec Alain Minc, alors que celui-ci soutient une offre Perdriel-Prisa-Orange, et alors que cette offre paraissait à la SRM « particulièrement dangereuse »57.
 
@@ -32,9 +32,9 @@ En février 2012, il conseille Philippe Tillous-Borde, le PDG de Sofiprotéol qu
 
 En 2012, il est nommé gérant et dirige l'une des plus grosses négociations de l'année (le rachat par Nestlé d'une filiale de Pfizer). Cette transaction, évaluée à plus de neuf milliards d'euros, lui permet de devenir millionnaire20,55. François Henrot dira de lui qu'« il aurait été, s'il était resté dans le métier, un des meilleurs en France, sans doute même en Europe »54. Entre décembre 2010, date de sa nomination comme associé-gérant, et mai 2012, celle de son arrivée à l'Élysée, Emmanuel Macron indique avoir gagné 2 millions d'euros brut62. Selon ses déclarations de revenus et de patrimoine faites à la Haute Autorité pour la transparence de la vie publique, il a gagné plus de 2 800 000 euros bruts entre 2009 et 2013.|
 
-** Parcours politique **
+**Parcours politique**
 
-|Le 15 mai 2012, ayant réintégré la fonction publique, Emmanuel Macron devient secrétaire général adjoint de l'Élysée en tandem avec Nicolas Revel. Il seconde le nouveau secrétaire général, Pierre-René Lemas.
+Le 15 mai 2012, ayant réintégré la fonction publique, Emmanuel Macron devient secrétaire général adjoint de l'Élysée en tandem avec Nicolas Revel. Il seconde le nouveau secrétaire général, Pierre-René Lemas.
 
 Nicolas Prissette relève que « dès les premières semaines du quinquennat, le secrétaire général adjoint de 34 ans retient l'attention du microcosme : jeune, sémillant, atypique, pas très à gauche... Les journaux lui consacrent des articles. On s'intéresse davantage à ce personnage qu'au secrétaire général Pierre-René Lemas, qui occupe pourtant le poste clé parmi tous les autres, au cœur du pouvoir ».
 
