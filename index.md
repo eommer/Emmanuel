@@ -14,7 +14,9 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+```
+int i = 5;
+```
 - Bulleted
 - List
 
