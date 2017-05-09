@@ -14,9 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-```
-int i = 5;
-```
+
 - Bulleted
 - List
 
@@ -26,6 +24,11 @@ int i = 5;
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
+
+
+```cs
+int i = 5;
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
