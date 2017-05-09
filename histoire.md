@@ -18,7 +18,7 @@ Des éléments de sa biographie publiés dans les médias ont fait l'objet d'inc
 
 ### Une ascension fulgurante
 
-** Banquier d'affaire **
+**Banquier d'affaire**
 
 |En septembre 2008, il se met en disponibilité de la fonction publique et devient banquier d'affaires chez Rothschild & Cie54,55. Recruté par François Henrot sur recommandation de Jacques Attali et de Serge Weinberg, il indique que l'échec de son militantisme local et l'élection de Nicolas Sarkozy à la présidence de la République l'ont poussé vers cette activité10.
 
