@@ -3,8 +3,7 @@
 
 ***
 
-[Privé](finance.md) |
-[Politique](politique.md) |
+[Privé](finance.md) | [Politique](politique.md) |
 
 ![Emmanuel Macron](manu.jpg)
 
