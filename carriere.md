@@ -5,7 +5,5 @@
 
 [Privé](finance.md) | [Politique](politique.md) |
 
-![Emmanuel Macron](manu.jpg)
-
 
 
