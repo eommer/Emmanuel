@@ -39,8 +39,6 @@ Prenant la suite du projet de « loi sur la croissance et le pouvoir d'achat » 
 
 ### Président de la république
 
-![france](france.svg)
-
 
 Comme son prédécesseur, Emmanuel Macron participe aux commémorations de la fin de la Seconde Guerre mondiale le 8 mai 2017, aux côtés de François Hollande, à la suite de l'invitation de ce dernier253. En marge de ces commémorations, celui-ci annonce la date de la passation de pouvoir pour le 14 mai 2017254.
 
